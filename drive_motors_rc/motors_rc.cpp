@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Company: McMaster University
+// Engineer: Ali Abbasi
+//
+// Create Date: 04/12/2023 12:53:25 PM
+// Design Name: autonomous-car-px4
+// Target Devices: NXP RDDRONE-FMUK66 running PX4
+// Description: This px4 application drives the car in two modes: remote controller
+// and autonomous 
+//////////////////////////////////////////////////////////////////////////////////
+
 #include <px4_platform_common/px4_config.h>
 #include <px4_platform_common/log.h>
 
